@@ -16,6 +16,7 @@ and open the template in the editor.
         echo " This is about git tutorial";
         echo "This is another line added";
         echo "This is another line added by text";
+echo "This is added in GitHub";
         ?>
     </body>
 </html>
