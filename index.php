@@ -8,7 +8,7 @@ and open the template in the editor.
     <head>
         <meta charset="UTF-8">
         <title></title>
-        <link href="style.css" type="text/css" media="all">
+        <link href="style.css" type="text/css" rel="stylesheet" media="all">
     </head>
     <body>
         <?php
