@@ -13,6 +13,7 @@ and open the template in the editor.
         <?php
         // put your code here
         echo " This is about git tutorial";
+        echo "This is another line added";
         ?>
     </body>
 </html>
